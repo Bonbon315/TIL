@@ -19,7 +19,7 @@
 ### Ordered List
 
 1. Ordered List
-2. 123123
+2. 1231234
 
 그냥 `1.` 하고 쓰면된다
 
@@ -28,7 +28,7 @@
 ### Unordered List
 
 * Unordered List
-* 123123
+* 1231234
 
 `*` 혹은 `-` 으로 쓰면된다
 
