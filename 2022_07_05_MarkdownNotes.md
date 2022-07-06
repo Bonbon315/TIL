@@ -62,7 +62,7 @@ print("Hello World")
 
 `[pahkey_KRRKrp](markdown_notes.assets/pahkey_KRRKrp.png)`  이런식으로 이미지도 첨부 가능
 
-![pahkey_KRRKrp](markdown_notes.assets/pahkey_KRRKrp.png)
+![pahkey_KRRKrp](2022_07_05_MarkdownNotes.assets/pahkey_KRRKrp.png)
 
 ## Blockquotes
 
