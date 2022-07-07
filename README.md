@@ -1,2 +1,2 @@
 # TIL
-Today I Learned
+[일자_주제]로 정리
