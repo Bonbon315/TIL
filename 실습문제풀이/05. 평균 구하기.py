@@ -5,4 +5,4 @@ d = 0
 for i in numbers:
     total += i
     d += 1
-print(total/d)
+print(int(total/d))
