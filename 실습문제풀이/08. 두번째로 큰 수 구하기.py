@@ -1,4 +1,5 @@
-numbers = [0, 20, 100]
+numbers = [0, 20, 100, 50, -60, 50, 100]
+numbers = list(set(numbers))
 
 result = numbers[0]
 for i in numbers:
