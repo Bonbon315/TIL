@@ -7,4 +7,4 @@ while count < a:
     count += n
     n += 1
 
-print(n)
+print(n-1)
