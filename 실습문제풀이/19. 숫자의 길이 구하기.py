@@ -1,6 +1,3 @@
-from pkg_resources import resource_listdir
-
-
 number = int(input())
 
 result = 0
