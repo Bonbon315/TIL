@@ -16,7 +16,6 @@ for test_case in range(1, T + 1):
     else:
         costB = ((W-R)*S) + Q 
     
-    if costA <= costB:
-        print(f'#{test_case} {costA}')
-    else:
-        print(f'#{test_case} {costB}')
+   
+    print(f'#{test_case} {min(costA, costB)}')
+
